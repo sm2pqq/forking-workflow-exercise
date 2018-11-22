@@ -1,2 +1,2 @@
 def tweet():
-    return "Kottsoppa till lunch"
+    return "Köttsoppa till lunch"
